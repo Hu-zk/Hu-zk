@@ -1,4 +1,5 @@
-![MasterHead](https://i.pinimg.com/originals/1f/8c/84/1f8c847bb4bfea6b79b9e0ac1a5b128d.gif)
+![MasterHead](<img src="https://i.pinimg.com/originals/1f/8c/84/1f8c847bb4bfea6b79b9e0ac1a5b128d.gif" alt="MasterHead" width="100%">
+)
 
 
 <h1 align="center">Hi 👋, I'm Hsen Zreik</h1>
