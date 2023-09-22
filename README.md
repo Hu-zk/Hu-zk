@@ -1,4 +1,4 @@
-[![MasterHead]([https://i.pinimg.com/originals/41/b1/1d/41b11dfd6b74eaf9b171c6bb7e306797.gif](https://i.pinimg.com/564x/1f/9d/fa/1f9dfa316dbbe7f9d6f4f5ad74ab4335.jpg))](https://rishavchanda.io)
+![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
 <h1 align="center">Hi 👋, I'm Hsen Zreik</h1>
 <h3 align="center">Byte Delight: Where I Code Day and Night</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"> 
