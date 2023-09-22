@@ -3,10 +3,6 @@
 <h3 align="center">Byte Delight: Where I Code Day and Night</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hu-zk&label=Profile%20views&color=0e75b6&style=flat" alt="hu-zk" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hu-zk" alt="hu-zk" /></a> </p>
-
 - 🌱 I’m currently learning **how to control the world by code**
 
 - 💬 Ask me about **mastering the art of chasing bugs**
