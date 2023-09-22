@@ -1,4 +1,4 @@
-![MasterHead](https://static.pingcap.com/files/2022/12/05072707/chatGPT-GitHub-banner.jpg)
+![MasterHead](https://i.pinimg.com/564x/1f/9d/fa/1f9dfa316dbbe7f9d6f4f5ad74ab4335.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Hsen Zreik</h1>
